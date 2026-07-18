@@ -1,0 +1,11 @@
+# TLS keys — generate locally (never commit private keys)
+keys/*.pem
+keys/*.key
+
+# Runtime / scan output
+discover.last.json
+*.pcap
+__pycache__/
+*.pyc
+.venv/
+venv/

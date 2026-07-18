@@ -1,0 +1,3 @@
+# Stand_alone — Kali AirDrop sender (modern path needs aioquic on Kali)
+scapy>=2.5.0
+aioquic>=1.2.0
